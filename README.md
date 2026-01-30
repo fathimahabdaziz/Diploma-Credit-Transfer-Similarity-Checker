@@ -18,18 +18,18 @@ The Credit Transfer Similarity System is an intelligent solution designed to aut
 - Database & Cloud: AWS IoT / Cloud storage
 - Visualization: Flutter dashboard, interactive charts
 
-**Poster & System Interface**
-| Poster |
-| :---: |
-| ![Poster](screenshots/poster.png) |
-
-| Dashboard & Upload | Similarity Analysis |
-| :---: | :---: |
-| ![Dashboard](screenshots/inteface1.png) | ![Analysis Result](screenshots/avareint.png) |
-| *Dashboard of the system, Diploma Credit Transfer Similarity Checker* | *Jaccard & Cosine score calculation* |
-
 **Learning Outcomes**
 - Developed expertise in OCR for document extraction
 - Implemented similarity learning models (Jaccard & Cosine)
 - Built interactive dashboards for data visualization
 - Gained experience in automating educational evaluation processes
+
+**Poster & System Interface**
+| Poster |
+| :---: |
+| ![Poster](screenshorts/poster.png) |
+
+| Dashboard & Upload | Similarity Analysis |
+| :---: | :---: |
+| ![Dashboard](screenshorts/interface1.png) | ![Analysis Result](screenshorts/averaeint.png) |
+| *Dashboard of the system, Diploma Credit Transfer Similarity Checker* | *Jaccard & Cosine score calculation* |
