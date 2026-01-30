@@ -1,5 +1,6 @@
 # Diploma Credit Transfer Similarity System
 🔒 **Project Status**: Private
+
 The source code for this project is hosted in a private repository due to institutional privacy policies at UKM. This repository serves as a technical overview and documentation of the system's capabilities and architecture.
 
 **Project Description**
@@ -20,6 +21,13 @@ The Credit Transfer Similarity System is an intelligent solution designed to aut
 - Deep Learning / AI: Similarity learning models (Jaccard & Cosine)
 - Database & Cloud: AWS IoT / Cloud storage
 - Visualization: Flutter dashboard, interactive charts
+
+**System Workflow**
+1. Input: User uploads Diploma and Bachelor's course syllabuses (PDF/JPG).
+2. Extraction: PyMuPDF and Tesseract OCR convert documents into raw text strings.
+3. Preprocessing: Text is cleaned using OpenCV (denoising/thresholding) to improve OCR accuracy.
+4. Semantic Analysis: The all-mpnet-base-v2 (BERT-based) model generates vector embeddings for the text.
+5. Matching: Cosine Similarity calculates the mathematical distance between embeddings to determine course equivalency.
 
 **Learning Outcomes**
 - Developed expertise in OCR for document extraction
