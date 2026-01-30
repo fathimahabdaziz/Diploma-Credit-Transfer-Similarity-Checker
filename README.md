@@ -1,4 +1,7 @@
 # Diploma Credit Transfer Similarity System
+🔒 **Project Status**: Private
+The source code for this project is hosted in a private repository due to institutional privacy policies at UKM. This repository serves as a technical overview and documentation of the system's capabilities and architecture.
+
 **Project Description**
 
 The Credit Transfer Similarity System is an intelligent solution designed to automate the evaluation of course equivalency between diploma and bachelor's programs. Using deep learning and OCR (Optical Character Recognition), this system analyzes course documents, compares learning outcomes, and calculates similarity scores to assist program heads in making informed credit transfer decisions.
