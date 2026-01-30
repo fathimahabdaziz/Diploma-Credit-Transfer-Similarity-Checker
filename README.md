@@ -18,8 +18,15 @@ The Credit Transfer Similarity System is an intelligent solution designed to aut
 - Database & Cloud: AWS IoT / Cloud storage
 - Visualization: Flutter dashboard, interactive charts
 
-**Screenshots / Demo**
-(Add images or GIFs here showing the document upload, similarity score dashboard, or report view)
+**Poster & System Interface**
+| Poster |
+| :---: |
+| ![Poster](screenshots/poster.png) |
+
+| Dashboard & Upload | Similarity Analysis |
+| :---: | :---: |
+| ![Dashboard](screenshots/inteface1.png) | ![Analysis Result](screenshots/avareint.png) |
+| *Dashboard of the system, Diploma Credit Transfer Similarity Checker* | *Jaccard & Cosine score calculation* |
 
 **Learning Outcomes**
 - Developed expertise in OCR for document extraction
